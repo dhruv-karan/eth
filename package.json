@@ -1,0 +1,26 @@
+{
+  "name": "eth-1",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/dhruv-karan/eth.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/dhruv-karan/eth/issues"
+  },
+  "homepage": "https://github.com/dhruv-karan/eth#readme",
+  "dependencies": {
+    "ganache-cli": "^6.1.8",
+    "mocha": "^5.2.0",
+    "node-gyp": "^3.8.0",
+    "rebuild": "^0.1.2",
+    "solc": "^0.4.25"
+  }
+}
